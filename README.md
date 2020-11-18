@@ -1,4 +1,8 @@
-### 君子道人以言而禁人以行，故言必慮其所終，而行必稽其所敝，則民謹於言而慎於行。
+
+### 天命之謂性，率性之謂道，修道之謂教。
+### 道者也，不可須臾離也；可離，非道也。
+### 是故，君子戒慎乎其所不睹，恐懼乎其所不聞。
+### 莫見乎隱，莫顯乎微，故君子慎其獨也。
 
 <!--
 **sanjitako/sanjitako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
