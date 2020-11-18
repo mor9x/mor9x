@@ -1,4 +1,4 @@
-### Hi there 👋
+### 君子道人以言而禁人以行，故言必慮其所終，而行必稽其所敝，則民謹於言而慎於行。
 
 <!--
 **sanjitako/sanjitako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
